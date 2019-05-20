@@ -1,0 +1,53 @@
+body {
+    background-color: #329ff8;
+}
+
+.button_3 {
+    background-color: white;
+    border: 3px solid orange;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 30px;
+    transition: 1.5s;
+}
+  
+.button_3:hover {
+    border: 3px solid white;
+    background-color: orange;
+}
+
+h1 {
+    color: #113461;
+    font-family: 'Kumar One', cursive;
+    transition: 1s;
+}
+
+h1:hover {
+    color: white;
+}
+
+h3 {
+    color: #113461;
+    font-family: 'Kumar One', cursive;
+    transition: 1s;
+}
+
+h3:hover {
+    color: white;
+}
+
+.new_btn {
+    background-color: #00000080;
+    color: white;
+    transition: 1s;
+}
+
+.new_btn:hover {
+    background-color: #ffffff80;
+    color: black;
+}
